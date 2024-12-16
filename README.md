@@ -2,8 +2,7 @@
 
 ## 🤝 Contact
 
-- **LinkedIn** : <a href="www.linkedin.com/in/timothé-renard-a686072b4"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Black-Logo.wine.svg
-"/></a>
+- **LinkedIn** : [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/timothé-renard-a686072b4/)
 - **Portfolio** : 🚧 🚧 🚧 🚧
 
 <h1 align="center">Bonjour 👋, Je suis Timothé</h1>
