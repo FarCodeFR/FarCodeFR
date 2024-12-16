@@ -2,21 +2,12 @@
 
 ## 🤝 Contact
 
-- **LinkedIn** : www.linkedin.com/in/timothé-renard-a686072b4
+- **LinkedIn** : <img href="www.linkedin.com/in/timothé-renard-a686072b4" icon="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bc1BoDnhlS5OOhLinFI5RpA%3D%3D"/>
 - **Portfolio** : 🚧 🚧 🚧 🚧
 
-<h1 align="center">Hi 👋, I'm Timothé</h1>
-<h3 align="center">I am a web developer passionate about creating high-performance and intuitive websites and applications. 🚀</h3>
+<h1 align="center">Bonjour 👋, Je suis Timothé</h1>
+<h3 align="center">je suis un développeur web passionné par la création de sites et d'applications performants et intuitifs. 🚀</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/timothé-renard-a686072b4
-
-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timoth%c3%a9-renard-a686072b4/" height="30" width="40" /></a>
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farcodefr&show_icons=true&locale=en&layout=compact" alt="farcodefr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FarCodeFR&" alt="farcodefr" /></p>
 
 
 ## 📂 Mes projets phares
