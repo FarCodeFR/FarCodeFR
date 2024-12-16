@@ -1,4 +1,4 @@
- ⚡️ <h1 align="center">Bienvenue sur mon GitHub !</h1> ⚡️
+ ⚡️ <h1 text-align="center">Bienvenue sur mon GitHub !</h1> ⚡️
 
 
 <h1 align="center">Bonjour 👋, Je suis Timothé</h1>
