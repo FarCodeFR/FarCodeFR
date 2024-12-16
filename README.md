@@ -57,9 +57,9 @@ Si vous êtes intéressé(e) par une collaboration ou avez une idée de projet, 
 
 ## 🏆 Stats GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=FarCodeFR&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarCodeFR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
