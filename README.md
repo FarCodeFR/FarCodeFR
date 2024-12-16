@@ -2,7 +2,7 @@
 
 ## 🤝 Contact
 
-- **LinkedIn** : <a href="www.linkedin.com/in/timothé-renard-a686072b4"><img src="![image](https://github.com/user-attachments/assets/c80fef1d-844f-41ca-91d7-acbcc0361b7c)
+- **LinkedIn** : <a href="www.linkedin.com/in/timothé-renard-a686072b4"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Black-Logo.wine.svg
 "/></a>
 - **Portfolio** : 🚧 🚧 🚧 🚧
 
