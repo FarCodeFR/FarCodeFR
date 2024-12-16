@@ -6,9 +6,24 @@ Salut, je suis Timothé, développeur web passionné par la création de sites e
 
 ---
 
+## 🤝 Contact
+
+- **LinkedIn** : www.linkedin.com/in/timothé-renard-a686072b4
+- **Portfolio** : 🚧 🚧 🚧 🚧
+
+---
+
 ## 🔧 Compétences techniques
 
-- 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+- 	name: Labels
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.topics.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_topics: yes
+  plugin_topics_limit: 12
+
 - **Frameworks/Librairies** :
   - Frontend : React.js, Vue.js, TailwindCSS, Bootstrap
   - Backend : Node.js, Express.js, Laravel
@@ -42,16 +57,6 @@ Salut, je suis Timothé, développeur web passionné par la création de sites e
 - Next.js pour des applications SSR/SSG performantes
 - GraphQL pour des API modernes et optimisées
 - Docker pour la gestion de conteneurs
-
----
-
-## 🤝 Collaborez avec moi !
-
-Si vous êtes intéressé(e) par une collaboration ou avez une idée de projet, contactez-moi !
-
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn** : [linkedin.com/in/votreprofil](https://linkedin.com/in/votreprofil)
-- **Portfolio** : [votre-portfolio.com](https://votre-portfolio.com)
 
 ---
 
