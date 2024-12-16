@@ -2,13 +2,13 @@
 
 # 🌐 Bienvenue sur mon GitHub !
 
-Salut, je suis **[Votre Nom]**, développeur web passionné par la création de sites et d'applications performants et intuitifs. J'adore explorer de nouvelles technologies et résoudre des problèmes complexes grâce au code. 🚀
+Salut, je suis Timothé, développeur web passionné par la création de sites et d'applications performants et intuitifs. 🚀
 
 ---
 
 ## 🔧 Compétences techniques
 
-- **Langages** : HTML, CSS, JavaScript (ES6+), TypeScript, PHP
+- 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 - **Frameworks/Librairies** :
   - Frontend : React.js, Vue.js, TailwindCSS, Bootstrap
   - Backend : Node.js, Express.js, Laravel
