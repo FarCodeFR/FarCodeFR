@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌐 Bienvenue sur mon GitHub !
+ ⚡️ Bienvenue sur mon GitHub ! ⚡️
 
 ## 🤝 Contact
 
