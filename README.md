@@ -1,7 +1,7 @@
  <h1 align="center">⚡️ Bienvenue sur mon GitHub ! ⚡️</h1>
 
 
-<h2 align="center">Bonjour 👋, Je suis Timothé</h2>
+<h2 align="center">Bonjour je m'appelle Timothé </h2>
 
 <h3 align="center">je suis un développeur web passionné par la création de sites et d'applications performants et intuitifs. 🚀</h3>
 
