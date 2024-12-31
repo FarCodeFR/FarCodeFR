@@ -32,7 +32,7 @@
 
    - **Description** : Un site qui affiche que des bonnes news !
    - **Technologies** : React Js, TypeScript, JavaScript, Css, Html, 
-   - **Lien** : https://github.com/utilisateur/projet3)](https://github.com/FarCodeFR/Good-Vibes
+   - **Lien** : https://github.com/FarCodeFR/Good-Vibes
    - Images :
 <figure><img src="https://github.com/user-attachments/assets/181af1f6-4f53-4e1a-9cda-1d2d9ade17eb" width=100px height=50px ></figure>  <figure><img src="https://github.com/user-attachments/assets/bb3de742-e012-42a1-b6d6-49a869bfff94" width=100px height=50px ></figure>
 
