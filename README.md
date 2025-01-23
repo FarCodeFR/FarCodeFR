@@ -3,7 +3,7 @@
 <h3 align="center">⚡️ Contact ⚡️</br></br></h3>
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/timothé-renard-a686072b4/)
-- **Portfolio** : https://port-folio-1-0.vercel.app/
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://port-folio-1-0.vercel.app/)
 
 <h3 font-size=32px align='center'>⚡️ Techno ⚡️</h3></br>
 
