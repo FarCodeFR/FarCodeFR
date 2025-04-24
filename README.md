@@ -1,4 +1,4 @@
-<section><h1 align="center">⚡️ Bienvenue sur mon GitHub ! ⚡️</h1> </br><h3 align="center">Je m'appelle Timothé </br></br>Je suis un Développeur Web passionné par la création de sites et d'applications performants et intuitifs.  🚀</br></br></br></h3></section>
+<section><h1 align="center">⚡️ Bienvenue sur mon GitHub ! ⚡️</h1> </br><h3 align="center">Je m'appelle Timothé </br></br> je suis un Développeur Web toujours partant pour donner vie à des projets uniques. J'aime explorer de nouveaux designs et intégrer des fonctionnalités innovantes à chaque création.   🚀</br></br></br></h3></section>
                  
 <h3 align="center">⚡️ Contact ⚡️</br></br></h3>
 
