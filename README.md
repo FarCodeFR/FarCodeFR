@@ -25,7 +25,7 @@
 
 ### 2. **[PortFolio]**
    - **Description** : Mon PortFolio 
-   - **Technologies** : React Js, TypeScript, Css, Html
+   - **Technologies** : React Js, TypeScript, Css, Html, Three Js 
    - **Lien** : https://port-folio-1-0.vercel.app/
 
 ### 3. **[Good-Vibes]**
