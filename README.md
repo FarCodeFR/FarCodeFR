@@ -12,30 +12,6 @@
 
 
 
-## 📂 Mes projets phares
-
-### 1. **[Caféothèque]**
-   - **Description** : Un site qui répertorie divers cafés à grain avec leurs descriptions et origines. Une page pour des idées de recettes et une page pour l'histoire du café.
-   - **Technologies** : React.js, JavaScript, Css, Html, TypeScript, Express.js
-   - **Lien** : https://github.com/WildCodeSchool-2024-09/JS-Nantes-P2-Cafeotheque
-   - Images :
-   <figure><img src="https://github.com/user-attachments/assets/fa48fc45-5605-4e37-ae6d-343cace303fb" width=100px height=50px ></figure>   <figure><img src="https://github.com/user-attachments/assets/bbf53a59-1265-4cc7-97fe-d859a5234fe0" width=100px height=50px ></figure>    <figure><img src="https://github.com/user-attachments/assets/599e5066-c1ad-4344-bec3-aaa785b23a62" width=100px height=50px ></figure>
-
-
-
-### 2. **[PortFolio]**
-   - **Description** : Mon PortFolio 
-   - **Technologies** : React Js, TypeScript, Css, Html, Three Js 
-   - **Lien** : https://port-folio-1-0.vercel.app/
-
-### 3. **[Good-Vibes]**
-
-   - **Description** : Un site qui affiche que des bonnes news !
-   - **Technologies** : React Js, TypeScript, JavaScript, Css, Html, Express.js
-   - **Lien** : https://github.com/FarCodeFR/Good-Vibes
-   - Images :
-<figure><img src="https://github.com/user-attachments/assets/181af1f6-4f53-4e1a-9cda-1d2d9ade17eb" width=100px height=50px ></figure>  <figure><img src="https://github.com/user-attachments/assets/bb3de742-e012-42a1-b6d6-49a869bfff94" width=100px height=50px ></figure>
-
 ---
 
 <h3>🏆 Stats GitHub </h3>
