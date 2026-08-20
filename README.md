@@ -65,4 +65,3 @@
 
 ---
 
-Merci d'avoir visité mon profil ! 🌟 N'hésitez pas à explorer mes dépôts ! 
